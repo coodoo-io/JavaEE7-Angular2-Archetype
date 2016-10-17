@@ -7,7 +7,7 @@
     <version>${version}</version>
     <packaging>pom</packaging>
     <modules>
-        <module>${artifactId}-backend</module>
         <module>${artifactId}-frontend</module>
+        <module>${artifactId}-backend</module>
     </modules>
 </project>
