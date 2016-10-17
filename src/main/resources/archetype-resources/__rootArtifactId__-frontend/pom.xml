@@ -26,7 +26,7 @@
      <arguments>
       <argument>build</argument>
       <argument>-prod</argument>
-      <argument>--output-path=../${artifactId}/src/main/angular</argument>
+      <argument>--output-path=../${rootArtifactId}-backend/src/main/${artifactId}</argument>
      </arguments>
     </configuration>
    </plugin>

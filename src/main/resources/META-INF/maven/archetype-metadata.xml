@@ -3,7 +3,7 @@
                       xmlns="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-descriptor/1.0.0"
                       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modules>
-        <module id="${rootArtifactId}" dir="__rootArtifactId__" name="__rootArtifactId__">
+        <module id="${rootArtifactId}-backend" dir="__rootArtifactId__-backend" name="__rootArtifactId__-backend">
             <fileSets>
                 <fileSet filtered="true" packaged="true">
                     <directory>src/main/java</directory>
@@ -28,7 +28,7 @@
                 </fileSet>
             </fileSets>
         </module>
-        <module id="${rootArtifactId}-angular" dir="__rootArtifactId__-angular" name="__rootArtifactId__-angular">
+        <module id="${rootArtifactId}-frontend" dir="__rootArtifactId__-frontend" name="__rootArtifactId__-frontend">
             <fileSets>
                 <fileSet filtered="true" packaged="false" encoding="UTF-8">
                     <directory></directory>

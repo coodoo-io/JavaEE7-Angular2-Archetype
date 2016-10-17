@@ -7,7 +7,7 @@
     <version>${version}</version>
     <packaging>pom</packaging>
     <modules>
-        <module>${artifactId}</module>
-        <module>${artifactId}-angular</module>
+        <module>${artifactId}-backend</module>
+        <module>${artifactId}-frontend</module>
     </modules>
 </project>
