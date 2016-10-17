@@ -1,7 +1,7 @@
 # JavaEE: Angular2 Architype
 The easiest way to get started with JavaEE + Angular2!
 
-If you are like us and love angular2 because it's kind of the **"EE of Javascript"** you will like this architype :).
+If you are like us and love Angular2 because it's kind of the **"EE of Javascript"** you will like this Maven Architype :).
 
 What does it contain:
 - Multi Module Maven Project (separation of concerns)
