@@ -8,6 +8,7 @@ What does it contain:
 - API Example for JavaEE
 - Website Example for Angular2
 - Ready to deploy with maven (Automatic angular Production Builds with every Maven Build)
+- Develop with angular-cli, npm and node.js but use run without it in production (Standard JavaEE Container Wildfly, Glassfish,...)
 
 How To use:
 ```sh
