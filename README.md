@@ -7,7 +7,7 @@ What does it contain:
 - Multi Module Maven Project (separation of concerns)
 - API Example for JavaEE
 - Website Example for Angular2
-- Ready to deploy with maven (Automatic angular Production Builds)
+- Ready to deploy with maven (Automatic angular Production Builds with every Maven Build)
 
 How To use:
 ```sh
