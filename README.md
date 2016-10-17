@@ -1,1 +1,1 @@
-# JavaEE7-Angular2-Architype
+# JavaEE: Angular2 Architype
