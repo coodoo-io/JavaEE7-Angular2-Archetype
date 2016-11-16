@@ -24,9 +24,9 @@
     <configuration>
      <executable>ng</executable>
      <arguments>
-      <argument>build</argument>
+     <argument>build</argument>
       <argument>-prod</argument>
-      <argument>--output-path=../${rootArtifactId}-backend/src/main/${artifactId}</argument>
+      <!--<argument>--base-href=/your-context/</argument>-->
      </arguments>
     </configuration>
    </plugin>
